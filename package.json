@@ -1,0 +1,23 @@
+{
+  "name": "blog-gab",
+  "version": "1.0.0",
+  "description": "Pottat's Blog",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "deploy": "gh-pages -d dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/redlux002/blog-gab.git"
+  },
+  "author": "Francis Gabuyo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/redlux002/blog-gab/issues"
+  },
+  "homepage": "https://github.com/redlux002/blog-gab#readme",
+  "dependencies": {
+    "gh-pages": "^2.1.1"
+  }
+}
